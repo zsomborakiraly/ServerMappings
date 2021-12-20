@@ -1065,5 +1065,13 @@
         "addresses": [
             "kingdomserver.be"
         ]
+    },
+       {
+        "id": "detrone",
+        "name": "Detrone",
+        "addresses": [
+            "detrone.tk"
+            "detrone.mchu.hu"
+        ]
     }
 ]
